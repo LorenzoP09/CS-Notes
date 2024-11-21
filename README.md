@@ -1,4 +1,2 @@
 # CS-Notes
-These are my notes taken during the three-year degree course in Computer Science at the Sapienza University of Rome. You can take everthing for free obviously :).
-If there are some errors in this repository pls contact me and i will provvide for it.
-Thanks and have a good day
+Queste sono/saranno gli appunti che ho preso durante il mio percorso nel corso di studi di laurea triennale in informatica (I3S) in Sapienza Università di Roma. Sono al primo anno quindi sono aperto a qualsiasi consiglio/correzione da persone che ne sanno più di me in materia quindi spero che vi unirete in questo mio percorso. Ovviamente tutto ciò che troverete qui è gratis poiché sono un grande sostenitore della libera informazione su internet. Have a good day!
