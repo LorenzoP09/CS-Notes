@@ -64,6 +64,6 @@ Per ogni numero l ∈ [0, 1] esiste una successione di cifre c<sub>k</sub> tale 
 *Dim:*
 Infatti, $c_k \le 9$ per ogni k, quindi:
 $$\frac {c_k} {10^k} \le \frac 9 {10^k}  \space \space \forall k$$
-Inoltre, la serie
+Inoltre, la serie Daje Roma
 
   
