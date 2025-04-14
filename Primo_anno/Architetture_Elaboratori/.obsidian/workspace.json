@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "00d14eed401a5ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1292fc0dfb0ea74d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55cda5143d24f965",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01284db5b6b848d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd8a23ee7f4e1afc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92ee49693e35e55b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d4115e20a71705b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "87dfaa75c4c62a93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4f49ff40686837c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ff13381401a3e1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ceb79b28c77c539",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Le istruzioni della CPU.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Le istruzioni della CPU"
+            }
+          },
+          {
+            "id": "04a0905c6c57b11b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "images/Pasted image 20250321093752.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20250321093752"
+            }
+          },
+          {
+            "id": "2e47aef58c6bee8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dcf56abdce66ae4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Le istruzioni della CPU.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Le istruzioni della CPU"
+            }
+          },
+          {
+            "id": "5e972474ab94ecd2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "92ee49693e35e55b",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "images/Pasted image 20250321110217.png",
+    "images/Pasted image 20250321110248.png",
+    "images/Pasted image 20250321111437.png",
+    "images/Pasted image 20250321111554.png",
+    "images/Pasted image 20250321111846.png",
+    "images/Pasted image 20250321112638.png",
+    "images/Pasted image 20250321113541.png",
+    "images/Pasted image 20250321114409.png",
+    "images/Pasted image 20250321121906.png",
+    "images/Pasted image 20250321122439.png",
+    "resources/RISCV_CARD.pdf",
+    "2025-04-13.md",
+    "Le istruzioni della CPU.md",
+    "Procedura e Funzioni.md",
+    "resources",
+    "Vettori, matrici e pseudoistruzioni.md",
+    "System calls, Procedure.md",
+    "Excalidraw/Drawing 2025-03-31 11.32.02.excalidraw.md",
+    "Untitled.canvas",
+    "Le.md",
+    "().md",
+    "images/RISCV_CARD.pdf",
+    "Drawing 2025-03-31 11.48.57.excalidraw.md",
+    "Untitled 1.canvas",
+    "2025-03-31.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2025-03-31 11.29.22.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-31 11.28.59.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-31 11.28.49.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-31 11.28.49_0.excalidraw.md",
+    "Appunti Penna",
+    "Users/lorco/Pictures/Screenshots.md",
+    "Users/lorco/Pictures",
+    "Users/lorco",
+    "Users",
+    "unoscreen.md",
+    "images"
+  ]
+}
