@@ -94,3 +94,5 @@ lw x9, 120(x10)  # x9 = MEM[x10+120], load word
 sw x9, 120(x10)  # MEM[x10+120] = x9, save word
 ```
 
+
+DAJE MAGICA ROMA
