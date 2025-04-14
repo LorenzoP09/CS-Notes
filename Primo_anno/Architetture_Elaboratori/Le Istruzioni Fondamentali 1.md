@@ -94,3 +94,7 @@ lw x9, 120(x10)  # x9 = MEM[x10+120], load word
 sw x9, 120(x10)  # MEM[x10+120] = x9, save word
 ```
 
+**U-type (Tipo immediato grande):**
+- Per movimentare parti immediate con tanti bit (utile per salti assoluti)
+- può essere usato insieme ad addi per costruire costanti a 32 bit in due istruzioni
+
