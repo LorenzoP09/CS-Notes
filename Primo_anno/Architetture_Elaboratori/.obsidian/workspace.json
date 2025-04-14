@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1292fc0dfb0ea74d",
+        "id": "db83b00e4d8169a0",
         "type": "tabs",
         "children": [
           {
-            "id": "55cda5143d24f965",
+            "id": "09c0d7e827ca35e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Le Istruzioni Fondamentali 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Le Istruzioni Fondamentali 1"
             }
           }
         ]
@@ -153,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -177,9 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92ee49693e35e55b",
+  "active": "09c0d7e827ca35e1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Le Istruzioni Fondamentali 1.md",
     "images/Pasted image 20250321110217.png",
     "images/Pasted image 20250321110248.png",
     "images/Pasted image 20250321111437.png",
