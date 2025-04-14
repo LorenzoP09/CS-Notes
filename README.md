@@ -3,6 +3,6 @@ Questo repository contiene la mia raccolta personale di appunti e note, organizz
 Ho creato questo spazio per raccogliere idee, riflessioni, appunti di studio e riferimenti utili in un unico luogo facilmente navigabile. Grazie alla struttura a grafo di Obsidian, posso collegare concetti correlati e sviluppare il mio pensiero in modo organico.
 Questo vault è in continua evoluzione e rappresenta il mio spazio di pensiero digitale personale.
 
-Per aprire questi appunti (Con formattazione ottimale di LATEX), è CONSIGLIATO aprire la cartella come vault su Obsidian.
+Per aprire questi appunti (Con formattazione ottimale di LATEX e con le immagini allegate), è CONSIGLIATO aprire la cartella come vault su Obsidian.
 
 Obsidian è scaricabile da questo link: https://obsidian.md/
