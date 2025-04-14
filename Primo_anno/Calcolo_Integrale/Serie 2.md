@@ -84,7 +84,7 @@ La scelta decimale nella rappresentazione in serie dei numeri reali è puramente
 
 Proposizione:
 
->Dato $p\in\mathbb{N}, p\le2.$ Per ogni numero $l\in[0,1]$ esiste una successione di interi$c_k \in \{0,1,\dots,p-1\}$ tale che $$\sum_{k=1}^{\infty} \frac{c^k}{p^k}=l$$
+>Dato $p\in\mathbb{N}, p\le2.$ Per ogni numero $l\in[0,1]$ esiste una successione di interi $c_k \in \{0,1,\dots,p-1\}$ tale che $$\sum_{k=1}^{\infty} \frac{c^k}{p^k}=l$$
 
 La procedura di calcolo è la stessa di prima. Ad esempio:
 $$p=2: \space\space\space\space\space \frac 1 4=0,01 \space\space\space\space\space \frac{1}{3}=0,01010101\dots$$
