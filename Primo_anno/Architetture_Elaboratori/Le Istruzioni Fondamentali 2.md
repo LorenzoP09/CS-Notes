@@ -114,4 +114,73 @@ add t0, t1, t0 # eseguo la somma: t0 = N (contenuto in t0) + v[6]
 sw t0, 48(s5)  # salvo il risultato contenuto in t0 in v[12]
 ```
 
+##### **Operatori logici:**
+
+```
+sll t0, s1, 0x1    # shift left logic
+srl t0, s1, 0x2    # shift right logic 
+and t0, s1, s2     # and between s1 and s2 in t0
+andi t0, x1, 0x3   # I type and between x1 and 0x3 in t0
+or t0, s1, s2      # or between s1 and s2 in t0
+ori t0, s1, 0x4    # I type or between s1 and 0x4 in t0
+```
+
+##### **Comparazione e salto condizionato:**
+
+```
+beq s1, s2, etichetta     # branch se uguali 
+bne s1, s2, etichetta     # branch se non uguali
+bge s1, x0, etichetta     # branch se minore uguale a 0
+bge x0, s1, etichetta     # branch se maggiore uguale a 0
+blt s1, x0, etichetta     # branch se minore di 0
+bgt s1, x0, etichetta     # branch se maggiore di 0
+
+
+# other examples
+slt s0, s1, s2            # set s0 to 1 if s1 is less than s2
+slti s0, s1, 10           # set s0 to 1 if s1 is less than 10
+```
+
+*Esempio:*
+
+```
+or t4, zero, t0       # faccio un or fra zero e t0 per ricavare il max 
+
+CheckB:
+	blt t4, t1, UpdateB   # se t4<t1 brancho a UpdateB
+ 	jal CheckC            # salto a CheckC 
+	
+UpdateB:
+	or t4, zero, t1       # ricavo il max e lo metto in t4
+	
+CheckC:
+	blt t4, t2, UpdateC   # se t4<t2 salto a UpdateC
+	jal CheckD            # sennò salto a CheckD
+
+UpdateC:
+	or t4, zero, t2       # il max diventa t2
+	
+CheckD:
+	blt t4, t3, UpdateD   # se t4 < t3 salto a UpdateD
+	jal End               # salto a End
+
+UpdateD:
+	or t4, zero t3        # il max diventa t3
+
+End:
+	sw t4, rez, t5       # salvo la word t4 in t5[rez]
+
+```
+
+##### **Direttive Principali per l'assemblatore:**
+
+- .data: Definizione dei dati statici
+- .text: Definizione del programma
+- .asciiz: Stringa terminata da \0
+- .byte: Sequenza di byte
+- .double: Sequenza di double
+- .float: Sequenza di float
+- -half: Sequenza di half words
+- .word: Sequenza di words
+
 

@@ -98,3 +98,23 @@ sw x9, 120(x10)  # MEM[x10+120] = x9, save word
 - Per movimentare parti immediate con tanti bit (utile per salti assoluti)
 - può essere usato insieme ad addi per costruire costanti a 32 bit in due istruzioni
 
+```
+lui x5, 0x12345     # load upper immediate 
+addi x5, x5, 0x678  # x5 = 0x12345 + 0x678
+```
+
+**UJ-type (Variante di U):**
+- Per saltare e salvare il PC + 4 in un registro (jump and link)
+- Indirizzo di destinazione: PC + immediate x 2 (quindi imm[0] non serve) $\pm 2^{20}$ byte dal PC
+
+```
+jal ra, funzione    # salta a funzione e salva l'indirizzo della funzione                      # chiamante in ra
+```
+
+**SB-type:**
+- Due operandi da confrontare e indirizzo di branch nella parte immediata
+- Indirizzo di destinazione: PC + immediate x2 (quindi imm[0] non serve) $\pm 2^{12}$ dal PC
+
+```
+beq s1, s2, C
+```
