@@ -141,6 +141,7 @@ slt s0, s1, s2            # set s0 to 1 if s1 is less than s2
 slti s0, s1, 10           # set s0 to 1 if s1 is less than 10
 ```
 
+
 *Esempio:*
 
 ```
