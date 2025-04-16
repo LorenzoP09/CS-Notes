@@ -22,7 +22,7 @@ In generale:
 $$S_n = \sum_{k=1}^{n}\left(\frac 1 {k(k+1)}\right) = 1 \mbox{ } = 1 - \frac1 {n+1}$$
 Quindi, per n → +∞:
 $$\sum_{k=1}^{∞} \frac 1 {k(k+1)} \mbox{ } = \mbox{ } \lim_{n→+∞}\left(1 - \frac 1 {n+1}\right)$$
-##### **Serie convergente:**
+##### **Studio serie pt 1:**
 ###### Definizione (Serie convergente):
 Se la successione delle somme parziali sn converge a *l*, la serie numerica è ==convergente== e la sua ==somma== è *l*: $$\sum_{k=1}^{∞}a_k =l$$
 Ad esempio la serie è convergente$$\sum_{k=1}^{∞} \frac 1 {k(k+1)}=1$$

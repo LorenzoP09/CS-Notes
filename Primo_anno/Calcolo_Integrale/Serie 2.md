@@ -1,7 +1,7 @@
 ##### **Serie a Termini non negativi:**
 Una serie numerica è ==a termini non negativi==, quindi se a<sub>k</sub> ≥ 0 per ogni k. Terminologia analoga per serie a termini positivi esistono le serie a termini
 1) Non positivi, quindi con a<sub>k</sub> ≤ 0
-2) Negativi, quindi cona<sub>k</sub> < 0
+2) Negativi, quindi con a<sub>k</sub> < 0
 
 *Esempi.* Serie a termini non negativi
 $$\sum_{k=1}^{∞} \frac 1 {k(k+1)}, \mbox{ }\mbox{ }\mbox{ }\sum_{k=1}^{∞}sin^2(k\pi/2)$$
