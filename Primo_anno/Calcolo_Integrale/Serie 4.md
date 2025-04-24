@@ -1,4 +1,4 @@
-Esistono delle serie con $a_{n}$ di segno variabile, dove i criteri di confronto visti precedentemente non possono essere applicati. In questo caso si può definire la convergenza assoluta:
+ Esistono delle serie con $a_{n}$ di segno variabile, dove i criteri di confronto visti precedentemente non possono essere applicati. In questo caso si può definire la convergenza assoluta:
 
 *Def*
 $$\sum_{n=0}^{\infty}a_{n}\space\space converge \space assolutamente\space se \space\space \sum_{n=0}^{\infty}|a_{k}|\space converge$$
