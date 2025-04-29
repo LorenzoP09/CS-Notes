@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e0632162464c8fa6",
+        "id": "97c471dd5eff637e",
         "type": "tabs",
         "children": [
           {
-            "id": "0bbd66389a864df3",
+            "id": "ffa7dede272ef7a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo_anno/Calcolo_Integrale/Numeri Complessi.md",
+                "file": "Primo_anno/Architetture_Elaboratori/Vettori, Matrici e pseudoistruzioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Numeri Complessi"
+              "title": "Vettori, Matrici e pseudoistruzioni"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "345c7eb129ca3bd2",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primo_anno/Calcolo_Integrale/Serie 2.md",
+                "file": "Primo_anno/Architetture_Elaboratori/Vettori, Matrici e pseudoistruzioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Serie 2"
+              "title": "Backlinks for Vettori, Matrici e pseudoistruzioni"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primo_anno/Calcolo_Integrale/Serie 2.md",
+                "file": "Primo_anno/Architetture_Elaboratori/Vettori, Matrici e pseudoistruzioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Serie 2"
+              "title": "Outgoing links from Vettori, Matrici e pseudoistruzioni"
             }
           },
           {
@@ -162,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,29 +182,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0bbd66389a864df3",
+  "active": "ffa7dede272ef7a6",
   "lastOpenFiles": [
-    "Primo_anno/Calcolo_Integrale/Serie 4.md",
-    "Primo_anno/Calcolo_Integrale/Numeri Complessi.md",
-    "Primo_anno/Calcolo_Integrale/Serie 5.md",
-    "Primo_anno/Calcolo_Integrale/Serie 3.md",
-    "Primo_anno/Calcolo_Integrale/Serie 2.md",
-    "Primo_anno/Calcolo_Integrale/Serie 1.md",
-    "Primo_anno/Calcolo_Integrale/Cheat Sheet Calcolo Integrale.md",
     "Primo_anno/Architetture_Elaboratori/Le Istruzioni Fondamentali 1.md",
     "Primo_anno/Architetture_Elaboratori/Vettori, Matrici e pseudoistruzioni.md",
-    "Primo_anno/Architetture_Elaboratori/Le Istruzioni Fondamentali 3.md",
+    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250429101833.png",
+    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250429101735.png",
+    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250429101035.png",
+    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250429101016.png",
     "Primo_anno/Architetture_Elaboratori/Le Istruzioni Fondamentali 2.md",
+    "Primo_anno/Architetture_Elaboratori/Le Istruzioni Fondamentali 3.md",
+    "Primo_anno/Calcolo_Integrale/Equazioni Differenziali.md",
+    "Primo_anno/Calcolo_Integrale/Serie 3.md",
+    "Primo_anno/Calcolo_Integrale/Serie 4.md",
+    "README.md",
+    "Primo_anno/Calcolo_Integrale/Serie 5.md",
+    "Primo_anno/Calcolo_Integrale/Cheat Sheet Calcolo Integrale.md",
+    "Primo_anno/Calcolo_Integrale/Serie 2.md",
+    "Primo_anno/Calcolo_Integrale/Serie 1.md",
+    "Primo_anno/Calcolo_Integrale/Numeri Complessi.md",
     "Primo_anno/Architetture_Elaboratori/resources/RISCV_CARD.pdf",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414190955.png",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414190202.png",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414190108.png",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414173758.png",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414164850.png",
-    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414164422.png",
-    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414163444.png",
-    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414161450.png",
-    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414161327.png",
-    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414161314.png"
+    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250414164422.png"
   ]
 }

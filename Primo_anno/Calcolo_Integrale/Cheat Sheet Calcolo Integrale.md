@@ -22,3 +22,5 @@ $$\lim_{n \to +\infty}b_{n+1}-b_1$$
 | sin x           | $\sum_{n=0}^{\infty}(-1)^n\frac{x^{2n+1}}{(2n+1)!}$ | p = $+\infty$         |
 | cos x           | $\sum_{n=0}^{\infty}(-1)^n \frac{x^{2n}}{2n!}$      | p = $+\infty$         |
 | $ln(1+x)$       | $\sum_{n=1}^{\infty}(-1)^{n+1}\frac{x^n}{n}$        | p = 1                 |
+| $\frac 1 {1+x}$ | $\sum_{n=0}^{\infty}{(-1)^nx^n}$                    | p = 1                 |
+| $e^{-x}$        | $\sum_{n=0}^{\infty}\frac {(-1)^nx^n}{n!}$          | p = +$\infty$         |

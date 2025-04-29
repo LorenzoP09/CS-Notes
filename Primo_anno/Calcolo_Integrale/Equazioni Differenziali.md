@@ -1,4 +1,4 @@
-Un'equazione differenziale è un'equazione in cui l'incognita è una funzione y(t) definita in un intervallo $\mathbb{I}$. In questo tipo di equazioni entrano in gioco le derivate di y(t), l'ordine dell'equazione corrisponde al grado massimo della derivata
+   Un'equazione differenziale è un'equazione in cui l'incognita è una funzione y(t) definita in un intervallo $\mathbb{I}$. In questo tipo di equazioni entrano in gioco le derivate di y(t), l'ordine dell'equazione corrisponde al grado massimo della derivata
 
 *Esempio:* $y^{III}(t)+y^I+sin(t\space y(t))=e^t$ è un equazione di grado 3
 
