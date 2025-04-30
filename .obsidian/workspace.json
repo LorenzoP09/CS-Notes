@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "345c7eb129ca3bd2",
@@ -194,9 +193,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "72643db59ad6b1fe",
+  "active": "4f2f42942b8f3dbe",
   "lastOpenFiles": [
-    "Pasted image 20250430181442.png",
+    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250430181442.png",
     "Primo_anno/Architetture_Elaboratori/System calls e funzioni.md",
     "Primo_anno/Architetture_Elaboratori/La Ricorsione.md",
     "Primo_anno/Architetture_Elaboratori/resources/RISCV_CARD.pdf",
