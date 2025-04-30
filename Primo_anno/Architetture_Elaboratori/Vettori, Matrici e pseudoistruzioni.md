@@ -152,5 +152,15 @@ Una matrice MxN è una successione di M vettori, ciascuno di N elementi:
 - La si definisce staticamente come un vettore contenente M x N elementi uguali
 
 ```
-
+Matrice: .word 0:91      # spazio per una matrice 7 x 13 word
 ```
+
+![[Pasted image 20250429112329.png]]
+
+Se vogliamo ottenere l'i-esimo elemento della matrice, ossia un elemento in posizione (x,y) dobbiamo fare: 
+>	(x,y) $\rightarrow$ indirizzo$[0]$ + N * x + y   dove N è la colonna 
+
+Quindi eseguo una somma fra ==indirizzo==+==offset di riga==
+
+Se vogliamo ottenere li-esimo elemento di una matrice 3D dobbiamo tenere traccia degli strati della matrice, quindi:
+>    (l, x, y) → indirizzo 0 + $[l ∗ (N ∗ M) + N ∗ x + y]$  dove N è la colonna e M è la riga 
