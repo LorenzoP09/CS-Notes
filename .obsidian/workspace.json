@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo_anno/Architetture_Elaboratori/La Ricorsione.md",
+                "file": "Primo_anno/Architetture_Elaboratori/System calls e funzioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Ricorsione"
+              "title": "System calls e funzioni"
             }
           },
           {
@@ -33,7 +33,8 @@
               "title": "RISCV_CARD"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "345c7eb129ca3bd2",
@@ -193,11 +195,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4f2f42942b8f3dbe",
+  "active": "dee3118950e93544",
   "lastOpenFiles": [
-    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250430181442.png",
     "Primo_anno/Architetture_Elaboratori/System calls e funzioni.md",
     "Primo_anno/Architetture_Elaboratori/La Ricorsione.md",
+    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250430181442.png",
     "Primo_anno/Architetture_Elaboratori/resources/RISCV_CARD.pdf",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250430154424.png",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250430154332.png",
@@ -216,7 +218,6 @@
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250429101833.png",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250429101735.png",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250429101035.png",
-    "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250429101016.png",
     "Primo_anno/Architetture_Elaboratori/Le Istruzioni Fondamentali 2.md",
     "Primo_anno/Architetture_Elaboratori/Le Istruzioni Fondamentali 3.md",
     "Primo_anno/Calcolo_Integrale/Equazioni Differenziali.md",
