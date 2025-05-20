@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo_anno/Architetture_Elaboratori/4. Vettori, Matrici e pseudoistruzioni.md",
+                "file": "Primo_anno/Calcolo_Integrale/Cheat Sheet Integrali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Vettori, Matrici e pseudoistruzioni"
+              "title": "Cheat Sheet Integrali"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "345c7eb129ca3bd2",
@@ -182,12 +181,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e1769d9cd53acbd0",
+  "active": "89ae5ce8b575c41a",
   "lastOpenFiles": [
-    "Primo_anno/Architetture_Elaboratori/5. System calls e funzioni.md",
-    "Primo_anno/Architetture_Elaboratori/6. La Ricorsione.md",
+    "Primo_anno/Calcolo_Integrale/Integrali 1.md",
+    "Primo_anno/Calcolo_Integrale/Cheat Sheet Integrali.md",
+    "Primo_anno/Calcolo_Integrale/photos",
+    "Primo_anno/Calcolo_Integrale/photos/Pasted image 20250520113002.png",
+    "Primo_anno/Calcolo_Integrale/Numeri Complessi.md",
+    "Primo_anno/Calcolo_Integrale/Equazioni Differenziali.md",
+    "Primo_anno/Calcolo_Integrale/Cheat Sheet Calcolo Integrale.md",
     "Primo_anno/Architetture_Elaboratori/7. Progettare la CPU RISC-V.md",
     "Primo_anno/Architetture_Elaboratori/8. Control Unit e nuove istruzioni.md",
+    "Primo_anno/Architetture_Elaboratori/6. La Ricorsione.md",
+    "Primo_anno/Architetture_Elaboratori/4. Vettori, Matrici e pseudoistruzioni.md",
+    "Primo_anno/Calcolo_Integrale/Integrali 1",
+    "Primo_anno/Architetture_Elaboratori/5. System calls e funzioni.md",
     "README.md",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250508101940.png",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250508101557.png",
@@ -198,11 +206,9 @@
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250508095821.png",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250508095746.png",
     "Primo_anno/Architetture_Elaboratori/images/Pasted image 20250508093558.png",
-    "Pasted image 20250508095642.png",
     "Primo_anno/Architetture_Elaboratori/resources/RISCV_CARD.pdf",
     "Primo_anno/Architetture_Elaboratori/1. Le Istruzioni Fondamentali 1.md",
     "Primo_anno/Architetture_Elaboratori/2. Le Istruzioni Fondamentali 2.md",
-    "Primo_anno/Architetture_Elaboratori/4. Vettori, Matrici e pseudoistruzioni.md",
     "Primo_anno/Architetture_Elaboratori/3. Le Istruzioni Fondamentali 3.md",
     "Le Istruzioni Fondamentali 2.md",
     "Excalidraw/Drawing 2025-05-05 18.21.21.excalidraw.md",
@@ -214,10 +220,7 @@
     "Primo_anno/Calcolo_Integrale/Serie 1.md",
     "Excalidraw/Drawing 2025-04-29 18.18.56.excalidraw.md",
     "Excalidraw",
-    "Primo_anno/Calcolo_Integrale/Equazioni Differenziali.md",
     "Primo_anno/Calcolo_Integrale/Serie 5.md",
-    "Primo_anno/Calcolo_Integrale/Cheat Sheet Calcolo Integrale.md",
-    "Primo_anno/Calcolo_Integrale/Serie 2.md",
-    "Primo_anno/Calcolo_Integrale/Numeri Complessi.md"
+    "Primo_anno/Calcolo_Integrale/Serie 2.md"
   ]
 }
